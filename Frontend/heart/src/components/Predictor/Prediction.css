@@ -1,0 +1,13 @@
+/* YourComponent.css */
+
+/* Default style for screens larger than small (w-50) */
+.card_main {
+    width: 80%;
+  }
+  
+  /* Override the width for small screens (vw-100) */
+  @media (max-width: 576px) {
+    .custom-responsive-card {
+      width: 100vw;
+    }
+  }

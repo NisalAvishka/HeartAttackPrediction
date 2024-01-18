@@ -1,0 +1,10 @@
+.footer-bar {
+    background-color: #333; /* Adjust the background color as needed */
+    color: #fff; /* Adjust the text color as needed */
+    padding: 20px; /* Adjust padding as needed */
+    text-align: center;
+  }
+  
+  .footer-text {
+    margin: 0;
+  }
